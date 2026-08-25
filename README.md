@@ -6,7 +6,7 @@ I am a highly execution-focused Cloud Infrastructure and Platform Engineer with 
 * 🌐 **Location:** London, UK (Fully mobile / Open to immediate independent relocation)
 * 💼 **Availability:** Open for immediate Full-Time or Hybrid opportunities (Full British Citizen)
 * 📧 **Contact:** oluwatobiastron@gmail.com | +44 7367 109366
-* 🔗 **Professional Network:** [LinkedIn](https://www.linkedin.com/in/oluwatobiastron) | [YouTube Architecture Channel](https://www.youtube.com/@OluwatobiAstron
+* 🔗 **Professional Network:** [LinkedIn](https://www.linkedin.com/in/oluwatobiastron) | [YouTube Architecture Channel](https://www.youtube.com/@OluwatobiAstron)
 
 ---
 
