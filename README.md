@@ -6,7 +6,7 @@ I am a highly execution-focused Cloud Infrastructure and Platform Engineer with 
 * 🌐 **Location:** London, UK (Fully mobile / Open to immediate independent relocation)
 * 💼 **Availability:** Open for immediate Full-Time or Hybrid opportunities (Full British Citizen)
 * 📧 **Contact:** oluwatobiastron@gmail.com | +44 7367 109366
-* 🔗 **Professional Network:** [LinkedIn](https://linkedin.com) | [YouTube Architecture Channel](https://youtube.com)
+* 🔗 **Professional Network:** [LinkedIn](https://www.linkedin.com/in/oluwatobiastron) | [YouTube Architecture Channel](https://www.youtube.com/@OluwatobiAstron
 
 ---
 
@@ -22,7 +22,7 @@ I am a highly execution-focused Cloud Infrastructure and Platform Engineer with 
 ## 🎥 Video Portfolio Quick Links
 
 I believe in validating practical engineering competency through working code and structural visibility. Check out my full architectural video breakdowns:
-* 🎬 [WebVid Serverless Streaming Platform Walkthrough][(https://youtu.be)](https://youtu.be/IkR0cnJ02Ww)
-* 🛡️ [SwiftTech Enterprise Governance & Network Hardening][(https://youtu.be)](https://youtu.be/ayghhTJwezU)
+* 🎬 [WebVid Serverless Streaming Platform Walkthrough](https://youtu.be/IkR0cnJ02Ww)
+* 🛡️ [SwiftTech Enterprise Governance & Network Hardening](https://youtu.be/ayghhTJwezU)
 * 👟 [EnduroSport Legacy-to-Cloud High Availability Migration](https://youtu.be/NjzsPdiHJBc)
-* 💻 [Harris & Sons Cloud-Hosted Relational DB Optimization][(https://youtu.be)](https://youtu.be/ct3x1s3vMNA)
+* 💻 [Harris & Sons Cloud-Hosted Relational DB Optimization](https://youtu.be/ct3x1s3vMNA)
